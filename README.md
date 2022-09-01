@@ -10,7 +10,7 @@ We are helping a company called Fast Lending which is asking us to help create a
 I used 6 different types of machine learning algorithms in order to provide an accurate response. I analyzed the models' balanced accuracy, precision, and recall scores. We will be using a chart that incorporates the confusion matrix as well as the classification metrics in all 6 machine learning models. The confusion matrix is a technique that is used to summarize the effectiveness of a classification algorithm. The reason we use a confusion matrix is that the classification model can often be misleading, for example, if we have an unequal number of observations in each class or if we have more than 2 classes. A classification metric is a number that will measure the performance of our machine learning model and it usually ranges from 0 to 1 (1 being a perfect model).
 
 
-The image below shows what a confusion matrix and classification metric look like. The boxes with a white background are the confusion matrix and the pink boxes with formulas in them are the classification metrics. We will use this information throughout all six machine learning models. 
+The image below shows what a confusion matrix and classification metric looks like. The boxes with a white background are the confusion matrix and the pink boxes with formulas in them are the classification metrics. We will use this information throughout all six machine learning models. 
 
 ![ConfusionMatrix](https://i.ibb.co/XS5zV1z/Confusion-Matrix.png) 
 
